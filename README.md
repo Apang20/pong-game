@@ -1,9 +1,9 @@
-## 🎨 Pong Game 👩‍🎨 
+## Pong Game 
 ![image](https:.png)
 
 
 ## Overview
-An application with a Canvas HTML element to create a basic version of MS Paint
+An application with an animated Canvas element to re-create the classic pong game
 
 Inspired by Udemy JS Web Projects Course with additional customizations:
 - Favicon 
@@ -18,7 +18,13 @@ Inspired by Udemy JS Web Projects Course with additional customizations:
 - CSS3
 
 
-## Tools
+## User Stories
+A user can do the following:
+- Play pong game against a computer API
+- View the current scores 
+- User can play until one reaching the winning score of 7
+- View 'Game Over' that confirms the winner
+- Option to click 'Play Again' button to seamlessly restart a new game
  
 
 ## Resources
