@@ -1,7 +1,9 @@
-## :trophy: Pong Game - In Progress! ![image](https://user-images.githubusercontent.com/62185859/119882329-e8fa9a00-bef3-11eb-8d1d-e85c3c783a42.png)
+## :trophy: Pong Game - In Progress!
 
+![image](https://user-images.githubusercontent.com/62185859/119882460-0e87a380-bef4-11eb-9c93-f9a3fff19510.png)
 
 ![image](https://user-images.githubusercontent.com/62185859/119881680-2c083d80-bef3-11eb-8597-37760edb4ab7.png)
+
 
 ## Overview
 An application with an animated Canvas element to re-create the classic pong game
