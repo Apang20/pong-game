@@ -18,20 +18,21 @@ canvas {
   transform: translate(-50%, -50%);
   width: 500px;
   height: 700px;
-  background-color: rgb(56, 56, 56);
+  background:url('https://media.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif');
+  background-repeat: no-repeat;
   margin-top: -4px;
   z-index: 11;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: whitesmoke;
+  color: rgb(253, 253, 245);
 }
 
 button {
   cursor: pointer;
-  color: rgb(0, 0, 0);
-  background-color: rgb(195, 195, 195);
+  color: rgb(15, 7, 7);
+  background-color: rgb(228, 224, 20);
   border: none;
   height: 50px;
   width: 200px;
