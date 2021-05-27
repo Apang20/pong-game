@@ -27,7 +27,6 @@ A user can do the following:
 
 ## Resources
 - [Favicon](https://icon-icons.com/)
-- [Google Fonts](https://fonts.google.com/)
 - [CSS Tricks](https://css-tricks.com/using-requestanimationframe/)
 - [Animcation Frame](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) 
