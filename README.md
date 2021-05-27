@@ -31,5 +31,6 @@ A user can do the following:
 - [CSS Tricks](https://css-tricks.com/using-requestanimationframe/)
 - [Animcation Frame](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) 
+- [Game Over Gif](https://media.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif) 
 - Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)/ Additonal customizations: Favicon, CSS3, HTML5
 
