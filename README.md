@@ -5,10 +5,6 @@
 ## Overview
 An application with an animated Canvas element to re-create the classic pong game
 
-Inspired by Udemy JS Web Projects Course with additional customizations:
-- Favicon 
-- CSS3/HTML5 
-
 
 ## Technologies 
 - Computer API
@@ -33,5 +29,5 @@ A user can do the following:
 - [CSS Tricks](https://css-tricks.com/using-requestanimationframe/)
 - [Animcation Frame](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) 
-- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)/ Additonal customizations: Favicon, CSS3, HTML5
 
