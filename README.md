@@ -1,4 +1,4 @@
-## Pong Game - In Progress! 
+## :trophy: Pong Game - In Progress! 
 ![image](https://user-images.githubusercontent.com/62185859/119881680-2c083d80-bef3-11eb-8597-37760edb4ab7.png)
 
 ## Overview
