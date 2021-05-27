@@ -1,5 +1,5 @@
 ## Pong Game 
-![video](https://user-images.githubusercontent.com/62185859/119880399-d4b59d80-bef1-11eb-9244-a1ed551158f5.png)
+![image](https://user-images.githubusercontent.com/62185859/119881680-2c083d80-bef3-11eb-8597-37760edb4ab7.png)
 
 
 
