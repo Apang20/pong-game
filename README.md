@@ -20,7 +20,7 @@ An application with an animated Canvas element to re-create the classic pong gam
 A user can do the following:
 - Play pong game against a computer API
 - View the current scores 
-- User can play until one reaching the winning score of 7
+- User can play until one reaching the winning score of 5
 - View 'Game Over' that confirms the winner
 - Option to click 'Play Again' button to seamlessly restart a new game
  
