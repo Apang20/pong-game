@@ -1,5 +1,4 @@
-# 🏆 Pong Game 🏓
- [View Live](https://apang20.github.io/pong-game/)
+# 🏆 Pong Game 🏓 [View Live!](https://apang20.github.io/pong-game/)
 
 
 ![image](https://user-images.githubusercontent.com/62185859/119881680-2c083d80-bef3-11eb-8597-37760edb4ab7.png)
